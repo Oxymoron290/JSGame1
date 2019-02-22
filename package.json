@@ -1,0 +1,16 @@
+{
+  "name": "JSGame1",
+  "version": "1.0.0",
+  "description": "This is a test of threeJS and socketJS to create a 3D multiplayer game in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "three": "^0.101.1"
+  }
+}
