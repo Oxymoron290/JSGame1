@@ -14,22 +14,52 @@
             var scene = new THREE.Scene();
             var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
             
-            var renderer = new THREE.WebGLRenderer();
+            var renderer = window.WebGLRenderingContext ? new THREE.WebGLRenderer() : new THREE.CanvasRenderer();
             renderer.setSize( window.innerWidth, window.innerHeight );
             document.body.appendChild( renderer.domElement );
 
-            var geometry = new THREE.BoxGeometry( 1, 1, 1 );
-            var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
-            var cube = new THREE.Mesh( geometry, material );
-            scene.add( cube );
+            //var light = new THREE.AmbientLight(0x00ffff);
+            //scene.add(light);
 
-            camera.position.z = 5;
+            var geometry1 = new THREE.BoxGeometry( 2, 2, 2 );
+            var material1 = new THREE.MeshBasicMaterial( { color: 0x00ff00, wireframe: true } );
+            var cube1 = new THREE.Mesh( geometry1, material1 );
+            cube1.name = "Box1";
+            cube1.position.x = 5;
+            cube1.position.y = 5;
+            scene.add( cube1 );
+
+            var geometry2 = new THREE.BoxGeometry( 2, 2, 2 );
+            var material2 = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
+            var cube2 = new THREE.Mesh( geometry2, material2 );
+            cube2.name = "Box2";
+            cube2.position.x = -5;
+            cube2.position.y = 5;
+            scene.add( cube2 );
+
+            var geometry3 = new THREE.SphereGeometry(2,15,15);
+            var material3 = new THREE.MeshBasicMaterial( { color: 0x0000ff, wireframe: true } );
+            var sphere3 = new THREE.Mesh(geometry3, material3);
+            sphere3.name = "Sphere3";
+            scene.add( sphere3 );
+
+            var geometry4 = new THREE.BoxGeometry( 2.3, 2.3, 2.3);
+            var material4 = new THREE.MeshBasicMaterial( { color: 0x00ff00, wireframe: true } );
+            var cube4 = new THREE.Mesh( geometry4, material4 );
+            cube4.name = "Box4";
+            scene.add( cube4 );
+
+            camera.position.z = 10;
 
             function animate() {
-                requestAnimationFrame( animate );
-                cube.rotation.x += 0.01;
-                cube.rotation.y += 0.01;
+                cube1.rotation.x -= 0.01;
+                cube1.rotation.y -= 0.01;
+                cube2.rotation.x += 0.01;
+                cube2.rotation.y += 0.01;
+                sphere3.rotation.y += 0.005;
+                cube4.rotation.x -= 0.005;
                 renderer.render( scene, camera );
+                requestAnimationFrame( animate );
             }
             
             animate();
