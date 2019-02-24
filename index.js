@@ -5,5 +5,6 @@ const port = 3000
 //app.get('/', (req, res) => { res.send('hello world') })
 app.use(express.static('public'))
 app.use('/js', express.static('node_modules/three/build'))
+app.use('/js', express.static('node_modules/three/examples/js'))
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

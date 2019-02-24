@@ -1,0 +1,9 @@
+[{
+    "name": "barrel1",
+    "position": {"x": 0, "y": 0, "z": -15},
+    "scale": {"x": 15, "y": 15, "z": 15},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+    
+    "mesh": "assets\\Modular Village\\Prop_Barrel_1.obj",
+    "material": "assets\\Modular Village\\Materials_Modular_Village.mtl"
+}]
