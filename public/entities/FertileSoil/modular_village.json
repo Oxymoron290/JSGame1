@@ -1,0 +1,3102 @@
+[
+    {
+        "name": "Canopy_Beam",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Beam.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Beam_Short",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Beam_Short.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Corner",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Full",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Full.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Ramp_Corner",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Ramp_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Ramp_Full",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Ramp_Full.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Ramp_Mid",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Ramp_Mid.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Side",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Side.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Sides_Opposite",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Sides_Opposite.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Canopy_Top",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Canopy_Top.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Cobblestone_Dirt_Transition_1",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Cobblestone_Dirt_Transition_2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Cobblestone_Dirt_Transition_3",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Cobblestone_Dirt_Transition_4",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_4.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Cobblestone_Floor_1",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Cobblestone_Floor_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Dirt_Fading",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Dirt_Fading.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Dirt_Fading_from_Gathered",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Dirt_Fading_from_Gathered.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Dirt_Gathered_Corner",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Dirt_Gathered_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Dirt_Gathered_Straight",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Dirt_Gathered_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Kit_Window_Upper_Convex",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Kit_Window_Upper_Convex.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Kit_Window_Upper_Straight",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Kit_Window_Upper_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Barrel_1",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Barrel_1_Open",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_1_Open.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Barrel_2",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Boat_1",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Boat_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Boat_2",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Boat_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Boat_Oars_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Boat_Oars_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Boat_Oars_2",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Boat_Oars_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Broom",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Broom.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Cart_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Cart_1_Barrels",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1_Barrels.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Cart_1_Hay",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1_Hay.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Crate_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Crate_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Crate_1_Open",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Crate_1_Open.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Hay_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Hay_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Ladder_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Ladder_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Lamp_Street",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Lamp_Street.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Well_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Well_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Well_Cobblestone",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Well_Cobblestone.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Well_Dirt",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Well_Dirt.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Well_Grass",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Well_Grass.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Prop_Well_Inside",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Prop_Well_Inside.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Rake_Concave",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Rake_Concave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Rake_Convex",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Rake_Convex.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Rake_Eave",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Rake_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Rake_Straight",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Rake_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Ridge",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Ridge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Accent_Ridge_End",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Accent_Ridge_End.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Corner_Inner",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Corner_Inner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Corner_Outer",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Corner_Outer.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Corner_Outer_Eave",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Corner_Outer_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Side",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Side.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Side_Eave",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Side_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Side_Eave_Edge",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Side_Eave_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Concave_Side_Edge",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Concave_Side_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Corner_Inner",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Corner_Inner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Corner_Outer",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Corner_Outer.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Corner_Outer_Eave",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Corner_Outer_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Side",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Side.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Side_Eave",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Side_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Side_Eave_Edge",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Side_Eave_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Convex_Side_Edge",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Convex_Side_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Prop_Chimney_Pipe",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Prop_Chimney_Pipe.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Prop_Chimney_Stone",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Prop_Chimney_Stone.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Corner_Inner",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Corner_Inner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Corner_Outer",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Corner_Outer.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Corner_Outer_Eave",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Corner_Outer_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Side",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Side.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Side_Eave",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Side_Eave.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Side_Eave_Edge",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Side_Eave_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Roof_Straight_Side_Edge",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Roof_Straight_Side_Edge.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Arch",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Arch.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Arch_Outer",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Arch_Outer.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Curb_1",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Curb_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Curb_2",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Curb_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Curb_3",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Curb_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Curb_4",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Curb_4.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Doorway_Narrow_Tall_1",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Doorway_Narrow_Tall_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Doorway_Narrow_Tall_2",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Doorway_Narrow_Tall_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Doorway_Wide_Tall_1",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Doorway_Wide_Tall_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Doorway_Wide_Tall_2",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Doorway_Wide_Tall_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Floor_1",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Floor_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Floor_2",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Floor_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Pillar",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Pillar.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Pillar_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Pillar_Base.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Sewer_Grate_1",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Sewer_Grate_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Sewer_Grate_2",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Sewer_Grate_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Stairs_Railing",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Stairs_Railing.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Steps",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Steps.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Steps_Side_1",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Steps_Side_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Steps_Side_2",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Steps_Side_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_to_Stucco_Doorway_Wide_Tall_1",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_to_Stucco_Doorway_Wide_Tall_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_to_Stucco_Doorway_Wide_Tall_2",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_to_Stucco_Doorway_Wide_Tall_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Wall_1",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Wall_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Wall_2",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Wall_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Wall_3",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Wall_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Wall_4",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Wall_4.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stone_Wall_5",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stone_Wall_5.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Arch_Half",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Arch_Half.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Arch_Half_Outer",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Arch_Half_Outer.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Block",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Block.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Doorway_Narrow_Tall",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Doorway_Narrow_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Doorway_Wide_Tall",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Doorway_Wide_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Angled_Large",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Angled_Large.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Angled_Low",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Angled_Low.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Angled_Small",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Angled_Small.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Beam_1",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Beam_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Beam_2",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Beam_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Beam_3",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Beam_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Pillar_1",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Pillar_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Pillar_2",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Pillar_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Prop_Support_Pillar_3",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Prop_Support_Pillar_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Double_Narrow",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Double_Narrow.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Double_Narrow_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Double_Narrow_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Double_Wide",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Double_Wide.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Double_Wide_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Double_Wide_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Rounded_Narrow",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Rounded_Narrow.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Rounded_Narrow_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Rounded_Narrow_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Rounded_Wide",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Rounded_Wide.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Rounded_Wide_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Rounded_Wide_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Single_Narrow",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Single_Narrow.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Single_Narrow_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Single_Narrow_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Single_Wide",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Single_Wide.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Stucco_Window_Single_Wide_Tall",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Stucco_Window_Single_Wide_Tall.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Bell_1",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Bell_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Door_Ornate",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Door_Ornate.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Door_Simple",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Door_Simple.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Lamp",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Lamp.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Sign_1",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Sign_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wall_Prop_Windmill_1",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wall_Prop_Windmill_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_1",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Curved",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Curved.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_End",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_End.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Ramp",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Ramp.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Ramp_Supported",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Ramp_Supported.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Straight",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Support_Brace",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Support_Brace.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Support_Brace_Double",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Support_Brace_Double.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Waterwheel_Flume_Support_Pillar",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Waterwheel_Flume_Support_Pillar.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Baseboard",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Baseboard.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Floor_Corner",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Floor_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Floor_Straight_1",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Floor_Straight_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Floor_Straight_2",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Floor_Straight_2.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Floor_Straight_3",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Floor_Straight_3.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Floor_Straight_4",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Floor_Straight_4.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Post_Large",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Post_Large.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Post_Small",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Post_Small.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Railing_Corner",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Railing_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Railing_Stairs",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Railing_Stairs.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Railing_Straight",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Railing_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Rope_Corner",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Rope_Corner.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Rope_Stairs",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Rope_Stairs.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Rope_Straight",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Rope_Straight.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Steps",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Steps.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    },
+    {
+        "name": "Wood_Steps_Stucco",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_village/Wood_Steps_Stucco.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+    }
+]

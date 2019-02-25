@@ -1,0 +1,82 @@
+[{
+    "name": "building-office-small",
+    "position": {"x": -9, "y": 0, "z": 0},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/building-office-small.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/building-office-small.mtl"
+},
+{
+    "name": "canal-corner-high",
+    "position": {"x": 0, "y": 0, "z": 0},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-high.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-high.mtl"
+},
+{
+    "name": "canal-corner-low",
+    "position": {"x": 9, "y": 0, "z": 0},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-low.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-low.mtl"
+},
+{
+    "name": "canal-high-water-low",
+    "position": {"x": -9, "y": 0, "z": 9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-high-water-low.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-high-water-low.mtl"
+},
+{
+    "name": "canal-hill",
+    "position": {"x": 0, "y": 0, "z": 9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-hill.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-hill.mtl"
+},
+{
+    "name": "canal-hill-water-low",
+    "position": {"x": 9, "y": 0, "z": 9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-hill-water-low.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-hill-water-low.mtl"
+},
+{
+    "name": "canal-river-high",
+    "position": {"x": -9, "y": 0, "z": -9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-river-high.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-river-high.mtl"
+},
+{
+    "name": "canal-river-low",
+    "position": {"x": 0, "y": 0, "z": -9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-river-low.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-river-low.mtl"
+},
+{
+    "name": "canal-straight-high",
+    "position": {"x": 9, "y": 0, "z": -9},
+    "scale": {"x": 1, "y": 1, "z": 1},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-high.obj",
+    "material": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-high.mtl"
+}
+]

@@ -1,0 +1,1142 @@
+[
+    {
+        "name": "building-office-small",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/building-office-small.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/building-office-small.mtl"
+    },
+    {
+        "name": "canal-corner-high",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-high.mtl"
+    },
+    {
+        "name": "canal-corner-low",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-corner-low.mtl"
+    },
+    {
+        "name": "canal-high-water-low",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-high-water-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-high-water-low.mtl"
+    },
+    {
+        "name": "canal-hill-water-low",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-hill-water-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-hill-water-low.mtl"
+    },
+    {
+        "name": "canal-hill",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-hill.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-hill.mtl"
+    },
+    {
+        "name": "canal-river-high",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-river-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-river-high.mtl"
+    },
+    {
+        "name": "canal-river-low",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 63
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-river-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-river-low.mtl"
+    },
+    {
+        "name": "canal-straight-high",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-high.mtl"
+    },
+    {
+        "name": "canal-straight-low",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/canal-straight-low.mtl"
+    },
+    {
+        "name": "dirt-low",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/dirt-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/dirt-low.mtl"
+    },
+    {
+        "name": "grass",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/grass.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/grass.mtl"
+    },
+    {
+        "name": "hill-corner-high",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/hill-corner-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/hill-corner-high.mtl"
+    },
+    {
+        "name": "hill-corner-low",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/hill-corner-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/hill-corner-low.mtl"
+    },
+    {
+        "name": "hill-ramp",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/hill-ramp.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/hill-ramp.mtl"
+    },
+    {
+        "name": "lot-border",
+        "position": {
+            "x": 9,
+            "y": 0,
+            "z": 63
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/lot-border.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/lot-border.mtl"
+    },
+    {
+        "name": "lot-corner",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/lot-corner.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/lot-corner.mtl"
+    },
+    {
+        "name": "lot-exit",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/lot-exit.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/lot-exit.mtl"
+    },
+    {
+        "name": "lot-parking",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/lot-parking.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/lot-parking.mtl"
+    },
+    {
+        "name": "lot",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/lot.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/lot.mtl"
+    },
+    {
+        "name": "river-corner-high",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-corner-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-corner-high.mtl"
+    },
+    {
+        "name": "river-corner-low",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-corner-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-corner-low.mtl"
+    },
+    {
+        "name": "river-end-high",
+        "position": {
+            "x": 18,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-end-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-end-high.mtl"
+    },
+    {
+        "name": "river-end-low",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-end-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-end-low.mtl"
+    },
+    {
+        "name": "river-hill",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-hill.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-hill.mtl"
+    },
+    {
+        "name": "river-straight-high",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-straight-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-straight-high.mtl"
+    },
+    {
+        "name": "river-straight-low",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/river-straight-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/river-straight-low.mtl"
+    },
+    {
+        "name": "road-bridge-canal",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-canal.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-canal.mtl"
+    },
+    {
+        "name": "road-bridge-coast",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-coast.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-coast.mtl"
+    },
+    {
+        "name": "road-bridge-grass",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-grass.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-grass.mtl"
+    },
+    {
+        "name": "road-bridge-hill",
+        "position": {
+            "x": 27,
+            "y": 0,
+            "z": 63
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-hill.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-hill.mtl"
+    },
+    {
+        "name": "road-bridge-ramp",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-ramp.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-ramp.mtl"
+    },
+    {
+        "name": "road-bridge-river",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-river.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-river.mtl"
+    },
+    {
+        "name": "road-bridge-road",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-road.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-road.mtl"
+    },
+    {
+        "name": "road-bridge-water",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-water.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-bridge-water.mtl"
+    },
+    {
+        "name": "road-corner-high",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-corner-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-corner-high.mtl"
+    },
+    {
+        "name": "road-corner-low",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-corner-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-corner-low.mtl"
+    },
+    {
+        "name": "road-crossing-high",
+        "position": {
+            "x": 36,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-crossing-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-crossing-high.mtl"
+    },
+    {
+        "name": "road-crossing-low",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-crossing-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-crossing-low.mtl"
+    },
+    {
+        "name": "road-end-high",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-end-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-end-high.mtl"
+    },
+    {
+        "name": "road-end-low",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-end-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-end-low.mtl"
+    },
+    {
+        "name": "road-hill",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-hill.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-hill.mtl"
+    },
+    {
+        "name": "road-straight-high",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-straight-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-straight-high.mtl"
+    },
+    {
+        "name": "road-straight-low",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-straight-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-straight-low.mtl"
+    },
+    {
+        "name": "road-tjunction-high",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-tjunction-high.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-tjunction-high.mtl"
+    },
+    {
+        "name": "road-tjunction-low",
+        "position": {
+            "x": 45,
+            "y": 0,
+            "z": 63
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-tjunction-low.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-tjunction-low.mtl"
+    },
+    {
+        "name": "road-tunnel-entry",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-tunnel-entry.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-tunnel-entry.mtl"
+    },
+    {
+        "name": "road-tunnel-segment",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/road-tunnel-segment.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/road-tunnel-segment.mtl"
+    },
+    {
+        "name": "sand",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/sand.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/sand.mtl"
+    },
+    {
+        "name": "water-beach-concave",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-beach-concave.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-beach-concave.mtl"
+    },
+    {
+        "name": "water-beach-convex",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 36
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-beach-convex.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-beach-convex.mtl"
+    },
+    {
+        "name": "water-beach-straight",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 45
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-beach-straight.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-beach-straight.mtl"
+    },
+    {
+        "name": "water-bedding-convex",
+        "position": {
+            "x": 54,
+            "y": 0,
+            "z": 54
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-bedding-convex.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-bedding-convex.mtl"
+    },
+    {
+        "name": "water-bedding-straight",
+        "position": {
+            "x": 63,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-bedding-straight.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-bedding-straight.mtl"
+    },
+    {
+        "name": "water-beddng-concave",
+        "position": {
+            "x": 63,
+            "y": 0,
+            "z": 9
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-beddng-concave.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-beddng-concave.mtl"
+    },
+    {
+        "name": "water-river-junction",
+        "position": {
+            "x": 63,
+            "y": 0,
+            "z": 18
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water-river-junction.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water-river-junction.mtl"
+    },
+    {
+        "name": "water",
+        "position": {
+            "x": 63,
+            "y": 0,
+            "z": 27
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/eracoon/landscape_asset_v2a/obj/water.obj",
+        "material": "assets/eracoon/landscape_asset_v2a/obj/water.mtl"
+    }
+]

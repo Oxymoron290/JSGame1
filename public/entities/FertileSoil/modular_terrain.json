@@ -1,0 +1,5882 @@
+[
+    {
+        "name": "Beach_Prop_Coconut_1",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Coconut_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Docks_Corner",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Docks_Corner.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Docks_Corner_Supports",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Docks_Corner_Supports.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Docks_Steps",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Docks_Steps.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Docks_Straight",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Docks_Straight.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Docks_Straight_Supports",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Docks_Straight_Supports.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Shell_1",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Shell_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Shell_2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Shell_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Starfish_1",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Starfish_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Starfish_2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Starfish_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Treasure_Chest",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Treasure_Chest.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Tree_Palm_1",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Tree_Palm_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Tree_Palm_2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Tree_Palm_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Prop_Tree_Palm_3",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Prop_Tree_Palm_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Corner_Inner_2x2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Corner_Inner_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Corner_Inner_4x4",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Corner_Inner_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Corner_Outer_2x2",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Corner_Outer_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Corner_Outer_4x4",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 510
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Corner_Outer_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Floor",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Floor.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Floor_Raised",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Floor_Raised.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Side_Gentle",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Side_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Side_Overlap_Side",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Side_Overlap_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Side_Sharp",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Side_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Side_Shift_Gentle",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Side_Shift_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Side_Shift_Sharp",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Side_Shift_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Transition_Gentle_Sharp_Centered.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Base",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Cliff_Terrain_Entrance_Flat_Base",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Cliff_Terrain_Entrance_Flat_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Cliff_Terrain_Entrance_Round_Base",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Cliff_Terrain_Entrance_Round_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Cliff_Terrain_Entrance_Round_Top",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Cliff_Terrain_Entrance_Round_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Cliff_Terrain_Entrance_Round_Top_Center",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Cliff_Terrain_Entrance_Round_Top_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Entrance_1",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Entrance_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Hanging_Cables_1",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Hanging_Cables_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Hanging_Cables_2",
+        "position": {
+            "x": 30,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Hanging_Cables_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Hanging_Cables_3",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Hanging_Cables_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Hanging_Lamp_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Hanging_Lamp_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Minecart_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Minecart_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Pick_Large",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Pick_Large.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Pick_Small",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Pick_Small.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Bumpstop",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Bumpstop.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Curve_Large",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Curve_Large.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Curve_Small",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Curve_Small.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Hill_Gentle",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Hill_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Hill_Sharp",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Hill_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Intersection",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Intersection.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Straight_1",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Straight_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Straight_2",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Straight_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Straight_3",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Straight_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Straight_4",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Straight_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Railway_Switch",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Railway_Switch.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Stalagmite_Connected_Base",
+        "position": {
+            "x": 60,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Stalagmite_Connected_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Stalagmite_Connected_Mid",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Stalagmite_Connected_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Stalagmite_Connected_Top",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Stalagmite_Connected_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Stalagmite_Normal",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Stalagmite_Normal.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Stalagmite_Tiny",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Stalagmite_Tiny.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Beam_1",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Beam_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Beam_2",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Beam_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Beam_3",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Beam_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Beam_4",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Beam_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Boards_1",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Boards_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Boards_2",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Boards_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Boards_3",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Boards_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Ceiling_Boards_4",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Ceiling_Boards_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Corner_Brace_1",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Corner_Brace_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Corner_Brace_2",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Corner_Brace_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Boards_1",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Boards_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Boards_2",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Boards_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Boards_3",
+        "position": {
+            "x": 90,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Boards_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Boards_4",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Boards_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Pillar_1",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Pillar_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Pillar_2",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Pillar_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Pillar_3",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Pillar_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Prop_Support_Wall_Pillar_4",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Prop_Support_Wall_Pillar_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_1x1_Base",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_1x1_Mid",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_1x1_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_1x1_Top",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_2x2_Base",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_2x2_Mid",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_2x2_Top",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_3x3_Base",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_3x3_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_3x3_Mid",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Inner_3x3_Top",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Inner_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_1x1_Base",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_1x1_Top",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_2x2_Base",
+        "position": {
+            "x": 120,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_2x2_Mid",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_2x2_Top",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_3x3_Mid",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Corner_Outer_3x3_Top",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Corner_Outer_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Flat_Round_Inner",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Flat_Round_Inner.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Flat_Round_Mid",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Flat_Round_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Flat_Round_Outer",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Flat_Round_Outer.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Floor_Normal",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Floor_Normal.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Floor_Raised",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Floor_Raised.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Corner_Inner_2x2",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Corner_Inner_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Corner_Inner_4x4",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Corner_Inner_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Corner_Outer_2x2",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Corner_Outer_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Corner_Outer_4x4",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Corner_Outer_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Side_Gentle",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Side_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Side_Overlap_Side",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Side_Overlap_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Side_Sharp",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Side_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Side_Shift_Gentle",
+        "position": {
+            "x": 150,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Side_Shift_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Side_Shift_Sharp",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Side_Shift_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Transition_Gentle_Sharp_Centered",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Transition_Gentle_Sharp_Centered.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Side_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Side_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Side_Incline_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Side_Incline_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Side_Incline_Top",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Side_Incline_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Side_Mid",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Side_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cave_Terrain_Side_Top",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cave_Terrain_Side_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Prop_Bridge_Rope_End",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Prop_Bridge_Rope_End.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Prop_Bridge_Rope_Middle",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Prop_Bridge_Rope_Middle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Prop_Bridge_Rope_Middle_Support",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Prop_Bridge_Rope_Middle_Support.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Prop_Rock_1",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Prop_Rock_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Prop_Rock_2",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Prop_Rock_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_1x1_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_1x1_Mid",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_1x1_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_1x1_Top",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_2x2_Base",
+        "position": {
+            "x": 180,
+            "y": 0,
+            "z": 510
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_2x2_Mid",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_2x2_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_3x3_Base",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_3x3_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_3x3_Mid",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Inner_3x3_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Inner_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_1x1_Base",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_1x1_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_2x2_Base",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_2x2_Mid",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_2x2_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_3x3_Base",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_3x3_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_3x3_Mid",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Corner_Outer_3x3_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Corner_Outer_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Base_Top_Joined_Gentle",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Base_Top_Joined_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Base_Top_Joined_Sharp",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Base_Top_Joined_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Gentle_Base",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Gentle_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Gentle_Top",
+        "position": {
+            "x": 210,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Gentle_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Sharp_Base",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Sharp_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Hill_Sharp_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Hill_Sharp_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Path_Steps_Center",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Path_Steps_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Path_Steps_Center_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Path_Steps_Center_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Path_Steps_Edge",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Path_Steps_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Path_Steps_Grass_Edge",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Path_Steps_Grass_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Path_Steps_Grass_Edge_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Path_Steps_Grass_Edge_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Side_Base",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Side_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Side_Mid",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Side_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Side_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Side_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Base_Flat",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Base_Flat.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Base_Hill",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Base_Hill.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Mid",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Water_Mid",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Water_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Water_Mid_Edge",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Water_Mid_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Water_Top",
+        "position": {
+            "x": 240,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Water_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Cliff_Terrain_Waterfall_Water_Top_Edge",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Cliff_Terrain_Waterfall_Water_Top_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_1x1_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_1x1_Mid",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_1x1_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_1x1_Top",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_2x2_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_2x2_Mid",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_2x2_Top",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_3x3_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_3x3_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_3x3_Mid",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Inner_3x3_Top",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Inner_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_1x1_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_1x1_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_1x1_Top",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_1x1_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_2x2_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_2x2_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_2x2_Mid",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_2x2_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_2x2_Top",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_2x2_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_3x3_Base",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_3x3_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_3x3_Mid",
+        "position": {
+            "x": 270,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_3x3_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Corner_Outer_3x3_Top",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Corner_Outer_3x3_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Hill_Base",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Hill_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Hill_Crest_Top",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Hill_Crest_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Hill_Top",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Hill_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Side_Base",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Side_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Side_Mid",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Side_Mid.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Escarpment_Terrain_Side_Top",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Escarpment_Terrain_Side_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Branch_1",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Branch_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Branch_2",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Branch_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Branch_3",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Branch_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_End",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_End.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_End_Edge",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_End_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_Middle",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_Middle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_Middle_Edge",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_Middle_Edge.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_Post_Support",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_Post_Support.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bridge_Log_Post_Top",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bridge_Log_Post_Top.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bush_1",
+        "position": {
+            "x": 300,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bush_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bush_2",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bush_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bush_3",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bush_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Bush_4",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Bush_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Camp_Campfire",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Camp_Campfire.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Camp_Lean_To",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Camp_Lean_To.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Camp_Sitting_Log",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Camp_Sitting_Log.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Camp_Wood_Pile",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Camp_Wood_Pile.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Cattail_1",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Cattail_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Cattail_2",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Cattail_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Boards_1",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Boards_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Boards_2",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Boards_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Boards_3",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Boards_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Boards_4",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Boards_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Curve_1x1",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Curve_1x1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Curve_2x2",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Curve_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Curve_3x3",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Curve_3x3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Gate_1",
+        "position": {
+            "x": 330,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Gate_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Gate_2",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Gate_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Hill_Gentle",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Hill_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Hill_Sharp",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Hill_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Post_1",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Post_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Post_2",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Post_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Post_3",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Post_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Fence_Post_4",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Fence_Post_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Daisy",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Daisy.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Lily_Blue",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Lily_Blue.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Lily_Pink",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Lily_Pink.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Rose",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Rose.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Sunflower",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Sunflower.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Flower_Tulip",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Flower_Tulip.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Grass_Clump_1",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Grass_Clump_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Grass_Clump_2",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Grass_Clump_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Grass_Clump_3",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Grass_Clump_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Grass_Clump_4",
+        "position": {
+            "x": 360,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Grass_Clump_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Hollow_Trunk",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Hollow_Trunk.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Mushroom_1",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Mushroom_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Mushroom_2",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Mushroom_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Rock_1",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Rock_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Rock_2",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Rock_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Rock_3",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Rock_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Rock_4",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Rock_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Ruins_Pillar_1",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Ruins_Pillar_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Ruins_Pillar_2",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Ruins_Pillar_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Ruins_Pillar_3",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Ruins_Pillar_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Ruins_Pillar_4",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Ruins_Pillar_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Ruins_Pillar_5",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Ruins_Pillar_5.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_1",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_2",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_3",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_4",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_5",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_5.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_6",
+        "position": {
+            "x": 390,
+            "y": 0,
+            "z": 510
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_6.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_7",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_7.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stepping_Stones_8",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stepping_Stones_8.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Stump",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Stump.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Cedar_1",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Cedar_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Cedar_2",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Cedar_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Oak_1",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Oak_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Oak_2",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Oak_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Oak_3",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Oak_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Pine_1",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Pine_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Pine_2",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Pine_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Prop_Tree_Pine_3",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Prop_Tree_Pine_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Grass_Floor",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Grass_Floor.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Corner_Inner_2x2",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Corner_Inner_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Corner_Inner_4x4",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Corner_Inner_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Corner_Outer_2x2",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Corner_Outer_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Corner_Outer_4x4",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Corner_Outer_4x4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Side_Gentle",
+        "position": {
+            "x": 420,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Side_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Side_Overlap_Side",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Side_Overlap_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Side_Sharp",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Side_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Side_Shift_Gentle",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Side_Shift_Gentle.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Side_Shift_Sharp",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Side_Shift_Sharp.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Transition_Gentle_Sharp_Centered",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Centered.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Base.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Center",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Inner_1x1",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Inner_1x1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Inner_2x2",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Inner_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Outer_1x1",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Outer_1x1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Outer_2x2",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Outer_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Outer_3x3",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Outer_3x3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Y_2x2",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Y_2x2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Corner_Y_3x3",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Corner_Y_3x3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Gentle_Plain_Center",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Gentle_Plain_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Gentle_Plain_Side",
+        "position": {
+            "x": 450,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Gentle_Plain_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Sharp_Plain_Center",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Sharp_Plain_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Sharp_Plain_Side",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Sharp_Plain_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Sharp_Steps_Center",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 60
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Sharp_Steps_Center.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Hill_Sharp_Steps_Side",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 90
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Hill_Sharp_Steps_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Path_Side",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 120
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Path_Side.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Water_Curve",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 150
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Water_Curve.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Water_Flat",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 180
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Water_Flat.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Hilly_Terrain_Water_Slope",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 210
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Hilly_Terrain_Water_Slope.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Mountain_1",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 240
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Mountain_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Mountain_2",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 270
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Mountain_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Mountain_3",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 300
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Mountain_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Mountain_4",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 330
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Mountain_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Prop_Boulder_1",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 360
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Prop_Boulder_1.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Prop_Boulder_2",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 390
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Prop_Boulder_2.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Prop_Boulder_3",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 420
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Prop_Boulder_3.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Prop_Boulder_4",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 450
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Prop_Boulder_4.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Prop_Boulder_5",
+        "position": {
+            "x": 480,
+            "y": 0,
+            "z": 480
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Prop_Boulder_5.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Terrain_Dirt_Gathered_Corner",
+        "position": {
+            "x": 510,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Terrain_Dirt_Gathered_Corner.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    },
+    {
+        "name": "Shared_Terrain_Dirt_Gathered_Straight",
+        "position": {
+            "x": 510,
+            "y": 0,
+            "z": 30
+        },
+        "scale": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "mesh": "assets/FertileSoil/modular_terrain/Shared_Terrain_Dirt_Gathered_Straight.obj",
+        "material": "assets/FertileSoil/modular_terrain/Materials_Modular_Terrain.mtl"
+    }
+]

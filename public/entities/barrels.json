@@ -1,0 +1,27 @@
+[{
+    "name": "barrel1",
+    "position": {"x": -40, "y": 0, "z": 25},
+    "scale": {"x": 15, "y": 15, "z": 15},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+    
+    "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_1.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "barrel1open",
+    "position": {"x": -50, "y": 0, "z": 25},
+    "scale": {"x": 15, "y": 15, "z": 15},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+    
+    "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_2.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "barrel2",
+    "position": {"x": -30, "y": 0, "z": 25},
+    "scale": {"x": 15, "y": 15, "z": 15},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+    
+    "mesh": "assets/FertileSoil/modular_village/Prop_Barrel_1_Open.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+}]

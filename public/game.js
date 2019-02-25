@@ -138,11 +138,27 @@ var game = function(){
         //     objects.push( box );
         // }
         
-        loadObjFromJSON('entities/barrel1.json');
-        loadObjFromJSON('entities/barrel1open.json');
-        loadObjFromJSON('entities/barrel2.json');
+        //loadObjFromJSON('entities/barrels.json');
 
-        loadObjFromJSON('entities/cart.json');
+        //loadObjFromJSON('entities/cart.json');
+        //loadObjFromJSON('entities/scene.json');
+
+        //loadObjFromJSON('entities/eracoon/scene1.json');
+        //loadObjFromJSON('entities/eracoon/landscape_asset_v2a.json');
+        //loadObjFromJSON('entities/eracoon/LandscapeAsset_v1.json');
+        loadObjFromJSON('entities/FertileSoil/modular_village.json',
+        {
+            position: {x: 550, y: 0, z: 0},
+            scale: {x: 0, y: 0, z: 0},
+            rotation: {x: 0, y: 0, z: 0}
+        });
+        loadObjFromJSON('entities/FertileSoil/modular_temple.json',
+        {
+            position: {x: 0, y: 0, z: 550},
+            scale: {x: 0, y: 0, z: 0},
+            rotation: {x: 0, y: 0, z: 0}
+        });
+        loadObjFromJSON('entities/FertileSoil/modular_terrain.json');
     }
 
     function init(){
@@ -159,9 +175,9 @@ var game = function(){
         // var light = new THREE.AmbientLight(0xffffff);
         // scene.add(light);
 
-        // var bulb = new THREE.PointLight(0xafafaf, 1, 100);
-        // bulb.position.set(15, 15, 15);
-        // scene.add(bulb);
+        var bulb = new THREE.PointLight(0xafafaf, 1, 100);
+        bulb.position.set(15, 15, 15);
+        scene.add(bulb);
 
         initControls();
 
@@ -220,7 +236,7 @@ var game = function(){
         renderer.render( scene, camera );
     }
     
-    function loadObjFromJSON(path){
+    function loadObjFromJSON(path, offset){
         var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
         xobj.open('GET', path, true); // Replace 'my_data' with the path to your file
@@ -229,21 +245,29 @@ var game = function(){
                 // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
                 
                 var result = JSON.parse(xobj.responseText);
-                result.forEach((item, index) => loadObj(item));
+                result.forEach((item, index) => loadObj(item, offset));
             }
         };
         xobj.send(null);
     }
 
-    function loadObj(entity){
+    function loadObj(entity, offset){
+        if(!offset){
+            offset = {
+                position: {x: 0, y: 0, z: 0},
+                scale: {x: 0, y: 0, z: 0},
+                rotation: {x: 0, y: 0, z: 0}
+            }
+        }
+
         var objLoader = new THREE.OBJLoader2();
     
         var callbackOnLoad = function(event){
             var obj = event.detail.loaderRootNode;
             obj.name = entity.name;
-            obj.position.set(entity.position.x, entity.position.y, entity.position.z);
-            obj.scale.set(entity.scale.x, entity.scale.y, entity.scale.z);
-            obj.rotation.set(entity.rotation.x, entity.rotation.y, entity.rotation.z);
+            obj.position.set(entity.position.x + offset.position.x, entity.position.y + offset.position.y, entity.position.z + offset.position.z);
+            obj.scale.set(entity.scale.x + offset.scale.x, entity.scale.y + offset.scale.y, entity.scale.z + offset.scale.z);
+            obj.rotation.set(entity.rotation.x + offset.rotation.x, entity.rotation.y + offset.rotation.y, entity.rotation.z + offset.rotation.z);
             scene.add(obj);
             objects.push(obj);
             console.log( 'Loading complete: ' + event.detail.modelName );
@@ -254,7 +278,8 @@ var game = function(){
             objLoader.setMaterials( materials );
             objLoader.load(entity.mesh, callbackOnLoad, null, null, null, false)
         };
-
+        console.log(entity);
+        console.log("Loading " + entity.name);
         objLoader.loadMtl(entity.material, null, onLoadMtl);
     }
 }();

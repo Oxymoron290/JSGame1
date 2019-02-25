@@ -1,0 +1,11 @@
+# Blender MTL File: 'rack.blend'
+# Material Count: 1
+
+newmtl wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602354 0.436580 0.277363
+Ks 0.427496 0.301914 0.200989
+Ni 1.000000
+d 1.000000
+illum 2

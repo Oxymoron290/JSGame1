@@ -5,8 +5,8 @@
         "scale": {"x": 15, "y": 15, "z": 15},
         "rotation": {"x": 0, "y": 0, "z": 0},
 
-        "mesh": "assets\\Modular Village\\Prop_Cart_1.obj",
-        "material": "assets\\Modular Village\\Materials_Modular_Village.mtl"
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
     },
     {
         "name": "cartBarrels",
@@ -14,8 +14,8 @@
         "scale": {"x": 15, "y": 15, "z": 15},
         "rotation": {"x": 0, "y": 1, "z": 0},
 
-        "mesh": "assets\\Modular Village\\Prop_Cart_1_Barrels.obj",
-        "material": "assets\\Modular Village\\Materials_Modular_Village.mtl"
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1_Barrels.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
     },
     {
         "name": "cartHay",
@@ -23,7 +23,7 @@
         "scale": {"x": 15, "y": 15, "z": 15},
         "rotation": {"x": 0, "y": 0.5, "z": 0},
         
-        "mesh": "assets\\Modular Village\\Prop_Cart_1_Hay.obj",
-        "material": "assets\\Modular Village\\Materials_Modular_Village.mtl"
+        "mesh": "assets/FertileSoil/modular_village/Prop_Cart_1_Hay.obj",
+        "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
     }
 ]

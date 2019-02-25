@@ -1,0 +1,20 @@
+# Blender MTL File: 'dine_chair_main.blend'
+# Material Count: 2
+
+newmtl cushion_red
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.511200 0.241600 0.241600
+Ks 0.361500 0.169928 0.169928
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl wood_dark
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.474400 0.340138 0.262400
+Ks 0.257500 0.187724 0.146000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,82 @@
+[{
+    "name": "test1",
+    "position": {"x": 0, "y": 0, "z": 0},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Dirt_Fading.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test2",
+    "position": {"x": 0, "y": 0, "z": 11},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Dirt_Fading_from_Gathered.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test3",
+    "position": {"x": 0, "y": 0, "z": 22},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Dirt_Gathered_Corner.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test4",
+    "position": {"x": -11, "y": 0, "z": 11},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Dirt_Gathered_Straight.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test5",
+    "position": {"x": -16, "y": 0, "z": 22},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_1.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test6",
+    "position": {"x": -16, "y": 0, "z": 43},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_2.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test7",
+    "position": {"x": -16, "y": 0, "z": 64},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_3.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test8",
+    "position": {"x": -16, "y": 0, "z": 85},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Cobblestone_Dirt_Transition_4.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+},
+{
+    "name": "test9",
+    "position": {"x": -37, "y": 0, "z": 22},
+    "scale": {"x": 10, "y": 10, "z": 10},
+    "rotation": {"x": 0, "y": 0, "z": 0},
+
+    "mesh": "assets/FertileSoil/modular_village/Cobblestone_Floor_1.obj",
+    "material": "assets/FertileSoil/modular_village/Materials_Modular_Village.mtl"
+}
+]
